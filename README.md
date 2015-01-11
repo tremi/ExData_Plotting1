@@ -1,3 +1,7 @@
+## Solution description
+
+Created four R files (plot1.R, plot2.R, plot3.R and plot4.R) that create four figures in PNG files (plot1.png, plot2.png, plot3.png and plot4.png) according to the assigment.
+
 ## Introduction
 
 This assignment uses data from
